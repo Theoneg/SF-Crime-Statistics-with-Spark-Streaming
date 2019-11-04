@@ -1,3 +1,4 @@
+# updated consumer
 from pykafka import KafkaClient
 from pykafka.simpleconsumer import OffsetType
 import logging
